@@ -1,0 +1,12 @@
+.link-header{
+    display: inline-flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat',sans-serif;
+    text-decoration: none;
+    font-weight: 700;
+    color: #000;
+    margin-right: 110px;
+    font-size: 22px;
+}

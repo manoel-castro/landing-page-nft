@@ -1,0 +1,15 @@
+.main-title{
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.main-title.title-home{
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+
+.main-title.-numb{
+    font-size: 35px;
+}

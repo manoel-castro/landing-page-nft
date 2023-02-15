@@ -1,0 +1,7 @@
+.nav-main{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-right: 50px;
+}
