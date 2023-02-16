@@ -1,7 +1,6 @@
 .home-page{
-    background-image: url(../assets/img/Frame\ 27.png);
-    background-repeat: no-repeat;
-    background-position: right;
+    justify-content: space-between;
+    display: flex;
     padding-top: 150px;
     margin-right: 130px;
 }
