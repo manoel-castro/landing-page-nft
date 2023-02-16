@@ -1,4 +1,6 @@
 .main-button{
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    font-weight: 700;
     width: 170px;
     height: 60px;
     border: none;
@@ -14,6 +16,14 @@
 }
 
 .main-button.-btn_home{
+    width: 253px;
+    height: 73px;
     font-size: 26px;
     margin-bottom: 70px;
+}
+
+.main-button.trade-btn{
+    width: 210px;
+    height: 62px;
+    font-size: 26px;
 }
