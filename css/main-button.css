@@ -9,20 +9,20 @@
     color: #fff;    
 }
 
-.main-button.-header{
+.main-button .-header{
     text-align: center;
     font-weight: 700;
     font-size: 22px;
 }
 
-.main-button.-btn_home{
+.main-button .-btn_home{
     width: 253px;
     height: 73px;
     font-size: 26px;
     margin-bottom: 70px;
 }
 
-.main-button.trade-btn{
+.main-button .trade-btn{
     width: 210px;
     height: 62px;
     font-size: 26px;
