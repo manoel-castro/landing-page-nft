@@ -16,6 +16,9 @@ time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 }
+body{
+	margin-left: 0;
+}
 .home-page, .header-main{
 	margin-left: 80px;
 }
