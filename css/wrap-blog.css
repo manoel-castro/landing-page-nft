@@ -1,0 +1,29 @@
+.wrap-blog_first{
+    margin-top: 110px;
+    display: flex;
+}
+
+.wrap-blog_first .-text_nft{
+    flex-direction: column;
+    margin-top: 37px;
+    margin-left: 30px;
+    width: 400px;
+    height: 516px;
+}
+
+.wrap-sec_blog{
+    display: flex;
+    flex-direction: column;
+}
+
+.wraper-blog_sec{
+    margin-bottom: 100px;
+    display: flex;
+    margin-left: 20px;
+}
+.wraper-blog_sec .-text_nft{
+    margin: 0;
+    margin-left: 30px;
+    width: 205px;
+    height: 95px;
+}
