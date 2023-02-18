@@ -1,0 +1,15 @@
+.try-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.align-try{
+    display: flex;
+    justify-content: center;
+}
+
+.align-try.-text{
+    color: #fff;
+    margin-top: -237px;
+    margin-bottom: 90px;
+}
