@@ -1,17 +1,19 @@
 .img-home{
-    align-items: center;
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
     margin-right: -100px;
     width: 580px;
     height: 700px;
 }
 
 .img-home .astro-img{
-    margin-left: -70px;
-    display: flex;
+    margin-bottom: -370px;
+    margin-left: -65px;
     margin-top: -220px;
     width: 580px;
+    z-index: 1;
     height: 600px;
-    position: absolute;
 }
 
 .img-home .space-img{
@@ -21,10 +23,8 @@
 }
 
 .img-home .comentario-img{
-    display: flex;
-    position: absolute;
     margin-top: -154px;
-    z-index: 1;
+    z-index: 2;
     width: 460px;
     height: 130px;
 }
