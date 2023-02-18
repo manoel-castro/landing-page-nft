@@ -5,9 +5,11 @@
 }
 
 .wrap-img .-footer{
+    flex-wrap: nowrap;
     padding-top: 10px;
     display: flex;
     gap: 20px;
+    width: 227px;
 }
 
 .wrap-img .img-footer{
