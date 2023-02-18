@@ -28,3 +28,13 @@
     font-weight: 900;
     font-size: 48px;
 }
+
+.main-title.-footer{
+    text-decoration: none;
+    padding-bottom: 75px;
+    font-size: 20px;
+    color: #E5E5E5;
+}
+.main-title.-footer.gray{
+    color: #B0AEAE;
+}
