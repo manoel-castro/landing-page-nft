@@ -27,3 +27,12 @@
     height: 62px;
     font-size: 26px;
 }
+
+.main-button.-btn_try{
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #000;
+    background: #FFF;
+    width: 180px;
+    height: 55px;
+}
